@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AwesomeMoviesApp</string>
+    <string name="error_occurred">Oops! Error Occurred.</string>
+    <string name="retry">Retry</string>
+</resources>
